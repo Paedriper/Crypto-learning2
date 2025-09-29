@@ -2,3 +2,4 @@
 chore: project bootstrap with Next.js & TypeScript
 feat(content): add "What is TVL?" lesson with interactive quiz
 docs: update CONTRIBUTING with style guidelines and Git hooks
+feat(auth): enable Web3 wallet login via wagmi & RainbowKit
