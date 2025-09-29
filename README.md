@@ -18,3 +18,4 @@ feat(i18n): add Spanish translations for core lessons
 test: add cypress e2e for wallet sign-in flow
 refactor: migrate styled-components to tailwindcss
 feat(nft): mint completion certificate as ERC-721 via Thirdweb
+docs: add roadmap section outlining Q4 module releases
