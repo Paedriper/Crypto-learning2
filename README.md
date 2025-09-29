@@ -14,3 +14,4 @@ fix(auth): handle wallet disconnection edge-case in provider
 chore: add LICENSE (MIT) and update README badges
 feat(dao): create governance proposal simulator playground
 security: sanitize user-submitted markdown via dompurify
+feat(i18n): add Spanish translations for core lessons
