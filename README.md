@@ -29,4 +29,8 @@ This is a new feature2 addition.
 New Feature
 This is a new feature3 addition.
 
-This is a new feature addition
+New Feature
+This is a new feature4 addition
+
+New Feature
+This is a new feature5 addition
