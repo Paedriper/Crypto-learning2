@@ -9,3 +9,4 @@ refactor: extract LessonLayout component for reuse across modules
 ci: add eslint, prettier, and type-check in GitHub Actions
 docs: generate typedoc for shared utilities package
 feat(gamification): implement XP badges stored in Supabase
+perf: lazy-load chart.js to cut bundle size by 18%
