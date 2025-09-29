@@ -22,3 +22,6 @@ docs: add roadmap section outlining Q4 module releases
 
 New Feature
 This is a new feature addition.
+
+New Feature
+This is a new feature2 addition.
