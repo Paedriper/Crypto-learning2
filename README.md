@@ -16,3 +16,4 @@ feat(dao): create governance proposal simulator playground
 security: sanitize user-submitted markdown via dompurify
 feat(i18n): add Spanish translations for core lessons
 test: add cypress e2e for wallet sign-in flow
+refactor: migrate styled-components to tailwindcss
