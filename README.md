@@ -12,3 +12,4 @@ feat(gamification): implement XP badges stored in Supabase
 perf: lazy-load chart.js to cut bundle size by 18%
 fix(auth): handle wallet disconnection edge-case in provider
 chore: add LICENSE (MIT) and update README badges
+feat(dao): create governance proposal simulator playground
