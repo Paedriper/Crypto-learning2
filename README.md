@@ -7,3 +7,4 @@ fix(ui): resolve dark-mode contrast issues on code blocks
 feat(api): integrate CoinGecko price endpoints for live charts
 refactor: extract LessonLayout component for reuse across modules
 ci: add eslint, prettier, and type-check in GitHub Actions
+docs: generate typedoc for shared utilities package
