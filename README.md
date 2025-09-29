@@ -6,3 +6,4 @@ feat(auth): enable Web3 wallet login via wagmi & RainbowKit
 fix(ui): resolve dark-mode contrast issues on code blocks
 feat(api): integrate CoinGecko price endpoints for live charts
 refactor: extract LessonLayout component for reuse across modules
+ci: add eslint, prettier, and type-check in GitHub Actions
