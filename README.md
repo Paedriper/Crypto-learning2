@@ -19,3 +19,6 @@ test: add cypress e2e for wallet sign-in flow
 refactor: migrate styled-components to tailwindcss
 feat(nft): mint completion certificate as ERC-721 via Thirdweb
 docs: add roadmap section outlining Q4 module releases
+
+New Feature
+This is a new feature addition.
